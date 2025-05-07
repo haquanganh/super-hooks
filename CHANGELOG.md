@@ -1,5 +1,11 @@
 # @astroha/super-hooks
 
+## 1.2.2
+
+### Patch Changes
+
+- add read me
+
 ## 1.2.1
 
 ### Patch Changes
