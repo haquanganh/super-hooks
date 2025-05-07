@@ -1,5 +1,29 @@
 # @astroha/super-hooks
 
+## 1.2.6
+
+### Patch Changes
+
+- add readme again
+
+## 1.2.5
+
+### Patch Changes
+
+- correct readme again
+
+## 1.2.4
+
+### Patch Changes
+
+- readme correction
+
+## 1.2.3
+
+### Patch Changes
+
+- add readme
+
 ## 1.2.2
 
 ### Patch Changes
