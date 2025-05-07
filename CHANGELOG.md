@@ -1,5 +1,11 @@
 # @astroha/super-hooks
 
+## 1.2.0
+
+### Minor Changes
+
+- add more hooks
+
 ## 1.1.0
 
 ### Minor Changes
