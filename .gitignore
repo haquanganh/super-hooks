@@ -41,7 +41,7 @@ coverage/
 .storybook-out/
 
 # Changesets
-.changeset/
+# .changeset/
 
 # Output files
 *.tgz
