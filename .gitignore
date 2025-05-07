@@ -1,0 +1,52 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+pnpm-lock.yaml
+
+# TypeScript
+*.tsbuildinfo
+*.d.ts
+
+# VSCode
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build output
+/dist/
+/build/
+/coverage/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Ignore IDE and editor files
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Jest / testing
+coverage/
+
+# Storybook build output
+.storybook-out/
+
+# Changesets
+.changeset/
+
+# Output files
+*.tgz
+*.tar.gz
+
+# npm package locks (you may want to commit them for your setup)
+package-lock.json
+yarn.lock
