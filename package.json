@@ -1,9 +1,17 @@
 {
   "name": "@astroha/super-hooks",
   "type": "module",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "main": "dist/index.mjs",
   "types": "dist/index.d.mts",
+  "homepage": "https://github.com/haquanganh/super-hooks",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haquanganh/super-hooks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/haquanganh/super-hooks.git/issues"
+  },
   "exports": {
     ".": {
       "import": "./dist/index.mjs",
